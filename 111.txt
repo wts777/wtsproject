@@ -31,6 +31,7 @@ qqqqqqqqqqqqqq
 wwwwwwwwwwwwwwww
 eeeeeeeeeeeeeeeeeeee
 rrrrrrrrrrrrrrrrrrrrrr
+<<<<<<< HEAD
 >>>>>>> aee01a28e224acbf165b59f0310596dbb113af5812
 123213213212321
 12321
@@ -39,3 +40,10 @@ rrrrrrrrrrrrrrrrrrrrrr
 123
 :wq
 
+=======
+>>>>>>> aee01a28e224acbf165b59f0310596dbb113af58
+forktest3修改
+good good 
+123456
+>>>>>>> 862d571b8561a4caffdf889f087ee4faf267b71e
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
